@@ -13098,4 +13098,4 @@ https://qq.com,yxad.com##.l_qq_com
 https://mail.qq.com##.tipbook-top
 http://mail.qq.com###plp_ad_container
 http://qq.com,yxad.com##.l_qq_com
-http://mail.qq.com##.tipbook-top
+http://mail.qq.com##.tipbook-top1
