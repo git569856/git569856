@@ -59,7 +59,7 @@
 @@|http://33.autohome.com.cn/njs/newget.js?r=
 @@|http://9zvip.net/wp-content/plugins/detect-adblock/js/ads.js
 @@|http://ad.molitv.cn/getad.aspx?p=mt_video_
-@@|http://alog.umeng.com/app_
+@@|http://github.com
 @@|http://api.downbei.com/dbapinew/post/get_ad_
 @@|http://a.alimama.cn/tkapi$script
 @@|http://account.bnet.163.com/js/login.js$script
